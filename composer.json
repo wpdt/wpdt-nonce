@@ -1,0 +1,12 @@
+{
+  "name": "wpdt/wpdt-nonce",
+  "description":  "Composer package for WordPress with OOP nonce functionality.",
+  "autoload": {
+    "psr-4" : {
+      "WPDT\\" : "src"
+    }
+  },
+  "require": {
+    "php": ">=7.0.0"
+  }
+}
